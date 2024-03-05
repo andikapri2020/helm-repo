@@ -3,12 +3,12 @@ entries:
   andi-apps:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-05T14:03:57.753067788+07:00"
+    created: "2024-03-05T14:06:21.12952415+07:00"
     description: This is a andi-apps application, is used for POS Activity
     digest: 81897eb75981b78b81bab88869e604bd20d62ddaf19ecc089ec405560e192ab9
     name: andi-apps
     type: application
     urls:
-    - andi-apps-0.1.0.tgz
+    - https://andikapri2020.github.io/helm-repo/andi-apps-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-05T14:03:57.743095558+07:00"
+generated: "2024-03-05T14:06:21.121302401+07:00"
